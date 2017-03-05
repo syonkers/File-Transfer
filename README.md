@@ -1,21 +1,13 @@
 # ----------------------------------------------------------- #
 # Group Number:        	1
-# Names:               	Clayton Caron
-#                       Cody Moorhouse
+# Names:               	Clayton Caron
+#                       Cody Moorhouse
 #			David James
 #			Marshall Anzinger
 #			Shaun Yonkers
-# Date:                 December 5th, 2015
 # CMPT 361:           	Class Section AS40
 # Instructors Name:   	Dr. Nicholas Boers
 # ----------------------------------------------------------- #
-
-# ------------------------------------------------------------------------- #
-# 			* IMPORTANT *					    #
-# ------------------------------------------------------------------------- #
-
-(1) We were unable to complete the encryption portion of the applications due
-to time constraints and problematic code.
 
 # ------------------------------------------------------------------------- #
 #			INTRODUCTION       			 	    #
@@ -25,10 +17,6 @@ Spycommd and spycomm are intended to provide a secure encrypted channel for
 secret file transfers. Spycommd acts as headquarters (HQ -- a listening server)
 and will be in a listening state waiting for fellow spies to connect. Spycomm
 is the program a spy would use to send files to HQ.
-
-# ------------------------------------------------------------------------- #
-#			  USAGE				             	    #
-# ------------------------------------------------------------------------- #
 
 #----------------#
 #  Installation	 #
